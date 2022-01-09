@@ -1,0 +1,132 @@
+﻿  lw_http.cpp
+  proxy.cpp
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(51,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(51,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(51,13): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(52,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(52,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(52,13): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(53,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(53,13): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(53,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(54,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(54,13): warning C4566: character represented by universal-character-name '\u2584' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(54,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(54,13): warning C4566: character represented by universal-character-name '\u2590' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(55,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(55,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(55,13): warning C4566: character represented by universal-character-name '\u2590' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(56,13): warning C4566: character represented by universal-character-name '\u2580' cannot be represented in the current code page (1252)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\proxy\proxy.cpp(56,13): warning C4566: character represented by universal-character-name '\u2588' cannot be represented in the current code page (1252)
+  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  sandbird.c
+proxy.obj : error LNK2005: "bool events::out::fastdrop" (?fastdrop@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::saveworld" (?saveworld@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::fasttrash" (?fasttrash@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::kck" (?kck@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::bnn" (?bnn@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::dicespeed" (?dicespeed@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::wlx" (?wlx@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::unaccesspaketi" (?unaccesspaketi@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::xyposition" (?xyposition@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::wly" (?wly@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::taxsystem" (?taxsystem@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::sety" (?sety@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::packets" (?packets@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::visdice" (?visdice@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::loggedin" (?loggedin@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::autopullsayi" (?autopullsayi@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::posy" (?posy@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::nid" (?nid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::ip" (?ip@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::ruletsayi" (?ruletsayi@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::type2" (?type2@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::wrenchpull" (?wrenchpull@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::currentuid" (?currentuid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::id" (?id@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::doorid" (?doorid@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::owneruid" (?owneruid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::autohosts" (?autohosts@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::aa" (?aa@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::type" (?type@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::uidz" (?uidz@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::autoacc" (?autoacc@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::dicemod" (?dicemod@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::country" (?country@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::posx" (?posx@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::setx" (?setx@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::yuzde" (?yuzde@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::test" (?test@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::autopull" (?autopull@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::autounacc" (?autounacc@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::visualspin" (?visualspin@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::fastmmode" (?fastmmode@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::worldbanjoinmod" (?worldbanjoinmod@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "bool events::out::wltroll" (?wltroll@out@events@@3_NA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::pll" (?pll@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::mode" (?mode@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::sayi" (?sayi@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "int events::out::iditemm" (?iditemm@out@events@@3HA) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::name" (?name@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::deneme" (?deneme@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+proxy.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::dc" (?dc@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::fastdrop" (?fastdrop@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::saveworld" (?saveworld@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::fasttrash" (?fasttrash@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::kck" (?kck@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::bnn" (?bnn@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::dicespeed" (?dicespeed@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::wlx" (?wlx@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::unaccesspaketi" (?unaccesspaketi@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::xyposition" (?xyposition@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::wly" (?wly@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::taxsystem" (?taxsystem@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::sety" (?sety@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::packets" (?packets@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::visdice" (?visdice@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::loggedin" (?loggedin@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::autopullsayi" (?autopullsayi@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::posy" (?posy@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::nid" (?nid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::ip" (?ip@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::ruletsayi" (?ruletsayi@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::type2" (?type2@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::wrenchpull" (?wrenchpull@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::currentuid" (?currentuid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::id" (?id@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::doorid" (?doorid@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::owneruid" (?owneruid@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::autohosts" (?autohosts@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::aa" (?aa@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::type" (?type@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::uidz" (?uidz@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::autoacc" (?autoacc@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::dicemod" (?dicemod@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::country" (?country@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::posx" (?posx@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::setx" (?setx@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::yuzde" (?yuzde@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::test" (?test@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::autopull" (?autopull@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::autounacc" (?autounacc@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::visualspin" (?visualspin@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::fastmmode" (?fastmmode@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::worldbanjoinmod" (?worldbanjoinmod@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "bool events::out::wltroll" (?wltroll@out@events@@3_NA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::pll" (?pll@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::mode" (?mode@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "int events::out::sayi" (?sayi@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "int events::out::iditemm" (?iditemm@out@events@@3HA) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::name" (?name@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::deneme" (?deneme@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > events::out::dc" (?dc@out@events@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in events.obj
+server.obj : error LNK2001: unresolved external symbol "public: void __thiscall server::SendPacketRaw(bool,int,void *,unsigned int,void *,int)" (?SendPacketRaw@server@@QAEX_NHPAXI1H@Z)
+C:\Users\Administrator\Downloads\srmotion-proxy-main\srmotion-proxy-main\Release\enet-proxy.exe : fatal error LNK1120: 1 unresolved externals
